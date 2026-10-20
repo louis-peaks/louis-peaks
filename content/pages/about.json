@@ -1,0 +1,15 @@
+{
+  "eyebrow": "The long version",
+  "titleLine1": "A little",
+  "titleLine2": "about me.",
+  "description": "From family hikes in the southern Alps to a growing respect for endurance sport, preparation and what the body can do.",
+  "image": "/images/banners/about.jpg",
+  "imageAlt": "Grid placeholder for the about banner",
+  "portrait": "/images/portraits/louis.jpg",
+  "portraitAlt": "Portrait placeholder",
+  "portraitCaption": "A photo of Louis will go here.",
+  "nameLabel": "Louis",
+  "interests": "Endurance. Mountains. Learning.",
+  "biographyEyebrow": "The long version",
+  "biographyHeading": "How I got here."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Home",
+    "url": "/"
+  },
+  {
+    "label": "Challenge",
+    "url": "/challenge/"
+  },
+  {
+    "label": "Journal",
+    "url": "/journal/"
+  },
+  {
+    "label": "Sidequests",
+    "url": "/sidequests/"
+  },
+  {
+    "label": "About",
+    "url": "/about/"
+  },
+  {
+    "label": "Contact",
+    "url": "/contact/"
+  }
+]

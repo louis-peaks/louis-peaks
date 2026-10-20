@@ -1,0 +1,13 @@
+{
+  "name": "louis-peaks-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Louis.Peaks: a portable static endurance journal for Cloudflare Pages.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

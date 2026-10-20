@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="{{ language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1713">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  {{ headMeta }}
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/styles.css?v={{ cssVersion }}">
+  <script src="/assets/main.js?v={{ jsVersion }}" defer></script>
+</head>
+<body class="{{ bodyClass }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  {{ header }}
+  <main id="main" tabindex="-1">{{ content }}</main>
+  {{ footer }}
+</body>
+</html>

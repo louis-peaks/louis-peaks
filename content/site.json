@@ -1,0 +1,24 @@
+{
+  "name": "Louis.Peaks",
+  "tagline": "Progress is the point.",
+  "description": "A personal log of endurance sport, mountains, challenges, failures and the lessons along the way.",
+  "language": "en",
+  "url": "",
+  "location": "Zürich, Switzerland",
+  "email": "",
+  "copyrightName": "Louis Peaks",
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/louis.peaks/"
+    },
+    {
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@louis.peaks"
+    },
+    {
+      "label": "Strava",
+      "url": "https://strava.app.link/EkZXvzCug7b"
+    }
+  ]
+}

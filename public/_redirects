@@ -1,0 +1,3 @@
+# Optional legacy alias. Keep one redirect per line; do not add a catchall.
+/blog /journal/ 301
+/blog/ /journal/ 301

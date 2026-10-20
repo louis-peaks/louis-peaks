@@ -1,0 +1,59 @@
+{
+  "eyebrow": "The current challenge",
+  "titleLine1": "IRONMAN",
+  "titleLine2": "Calella 2027.",
+  "description": "I’ve given myself one mission: complete a long-distance triathlon at IRONMAN Calella in October 2027. I want to respect the distance and bring a prepared version of myself to the start line. The goal is to learn as much as possible, train with consistency, and enjoy a race I will have earned.",
+  "image": "/images/banners/challenge.jpg",
+  "imageAlt": "Grid placeholder for the challenge banner",
+  "goal": "Arrive prepared enough to enjoy the race I worked for.",
+  "phase": "Learn & build",
+  "dateLabel": "October 2027 · date to be confirmed",
+  "roadmap": [
+    {
+      "title": "Learn",
+      "text": "Understand the three sports, the body and the habits that make training repeatable.",
+      "current": false
+    },
+    {
+      "title": "Build",
+      "text": "Stack consistent weeks. Add volume with patience and make room for recovery.",
+      "current": true
+    },
+    {
+      "title": "Sharpen",
+      "text": "Bring in race-specific work when the foundation is ready.",
+      "current": false
+    },
+    {
+      "title": "Race",
+      "text": "Reduce the volume before race day, reach the start line prepared and enjoy the experience.",
+      "current": false
+    }
+  ],
+  "distances": [
+    {
+      "label": "Swim · target format",
+      "value": "3.8 km"
+    },
+    {
+      "label": "Bike · target format",
+      "value": "180 km"
+    },
+    {
+      "label": "Run · target format",
+      "value": "42.2 km"
+    }
+  ],
+  "trainingNote": "Build consistency first. Learn the three sports, keep easy sessions easy, add volume with patience and let race-specific intensity arrive when the foundation is ready.",
+  "sponsorHeading": "Become a sponsor.",
+  "sponsorText": "Interested in supporting the journey? Get in touch to talk about a collaboration that fits the project and the story behind it.",
+  "approachEyebrow": "The approach",
+  "approachHeadingLine1": "Patience.",
+  "approachHeadingLine2": "Then progress.",
+  "distanceEyebrow": "The distance ahead",
+  "distanceHeading": "Respect the distance.",
+  "distanceDescription": "The long-distance format I’m working towards. These are race distances, not completed training totals.",
+  "journalEyebrow": "Notes along the way",
+  "journalHeading": "The work behind it.",
+  "sponsorEyebrow": "An open invitation"
+}
