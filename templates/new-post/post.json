@@ -1,0 +1,10 @@
+{
+  "title": "Your post title",
+  "date": "2026-10-20",
+  "category": "training",
+  "excerpt": "Write one or two sentences that make someone want to read the story.",
+  "image": "/images/placeholders/grid.jpg",
+  "imageAlt": "Describe what is visible in your photograph.",
+  "draft": true,
+  "sample": false
+}
